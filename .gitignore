@@ -1,3 +1,5 @@
 *.parquet
 *.hyper
 /.idea
+*.csv
+*.gz

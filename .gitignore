@@ -1,4 +1,3 @@
-*.parquet
 *.hyper
 /.idea
 *.csv
